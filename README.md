@@ -1,14 +1,16 @@
 # Hello, My Name is Ramel Haines
-<a href="https://linkedin.com"> https://www.linkedin.com/in/ramel-haines-a1859a8a/<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ramel-haines-a1859a8a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I have a background in Business with some experience in coding, and I’m now transitioning into the cybersecurity field. My focus is on identifying and analyzing risks, threats, and vulnerabilities to help businesses strengthen their security posture. I'm passionate about protecting critical assets and contributing to national security in an increasingly digital world.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# What I'm Working On
+- Expanding my knowledge in cybersecurity frameworks, threat analysis, and risk management
+- Gaining hands-on experience with security tools and best practices
+- Pursuing certifications to deepen my expertise
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology has sparked a strong passion for cybersecurity, and I am now focused on transitioning into this field to become a Cybersecurity Engineer. I am particularly interested in securing networks, detecting threats, and implementing defense strategies. As a first step, I aim to gain hands-on experience in a Security Operations Center (SOC) as a Tier 1 Analyst to build a strong foundation in threat monitoring and incident response.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
